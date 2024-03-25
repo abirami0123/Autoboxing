@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-class Autoboxing {
+class index {
 public static void main(String[] args)
 {
  char ch = 'a';
